@@ -1,0 +1,4 @@
+win=com.tj.ythu.spi.dubbo.impl.Windows
+mac=com.tj.ythu.spi.dubbo.impl.Mac
+add=com.tj.ythu.spi.dubbo.impl.Android
+com.tj.ythu.spi.dubbo.wrapper.ComputerOSWrapper
